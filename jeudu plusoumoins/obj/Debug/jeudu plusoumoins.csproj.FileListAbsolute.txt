@@ -1,0 +1,5 @@
+c:\users\svantieghem\documents\visual studio 2012\Projects\jeudu plusoumoins\jeudu plusoumoins\bin\Debug\jeudu plusoumoins.exe.config
+c:\users\svantieghem\documents\visual studio 2012\Projects\jeudu plusoumoins\jeudu plusoumoins\bin\Debug\jeudu plusoumoins.exe
+c:\users\svantieghem\documents\visual studio 2012\Projects\jeudu plusoumoins\jeudu plusoumoins\bin\Debug\jeudu plusoumoins.pdb
+c:\users\svantieghem\documents\visual studio 2012\Projects\jeudu plusoumoins\jeudu plusoumoins\obj\Debug\jeudu plusoumoins.exe
+c:\users\svantieghem\documents\visual studio 2012\Projects\jeudu plusoumoins\jeudu plusoumoins\obj\Debug\jeudu plusoumoins.pdb
