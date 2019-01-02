@@ -2,8 +2,10 @@
 
 Programme réaliser en C#     
 
-Aller dans le dossier :      
-jeu-du-plus-ou-moins/jeudu plusoumoins/bin/Debug/jeudu plusoumoins.exe     
-Pour le lancer      
+Pour le lancer aller dans le dossier :           
+jeu-du-plus-ou-moins/jeudu plusoumoins/bin/Debug/jeudu plusoumoins.exe         
+Pour voir le code aller dans le dossier :              
+jeu-du-plus-ou-moins/jeudu plusoumoins/Program.cs    
+
 
 
